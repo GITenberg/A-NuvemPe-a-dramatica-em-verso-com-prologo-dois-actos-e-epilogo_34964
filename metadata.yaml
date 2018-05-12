@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31332'
     url: http://www.gutenberg.org/2009/agents/31332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34964#A-NuvemPe-a-dramatica-em-verso-com-prologo-dois-actos-e-epilogo
 gutenberg_issued: '2011-01-15'
 gutenberg_type: Text
 identifiers:
